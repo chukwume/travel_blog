@@ -11,10 +11,10 @@ The following steps were taken:
 - Access your website in a browser using the unique CloudFront endpoint.
 
 ## Files
-screenshots/ : Folder containing screenshots for the project.
-udacity-starter-website : All data required for website.
+- screenshots/ : Folder containing screenshots for the project.
+- udacity-starter-website : All data required for website.
 
 To access the website, here are the required links:
-CloudFront domain name : dqyasevcula15.cloudfront.net
-S3 object URL : chukwume-bucket-1.s3-website-us-east-1.amazonaws.com
-Website endpoint : chukwume-bucket-1.s3.amazonaws.com/index.html
+- CloudFront domain name : dqyasevcula15.cloudfront.net
+- S3 object URL : chukwume-bucket-1.s3-website-us-east-1.amazonaws.com
+- Website endpoint : chukwume-bucket-1.s3.amazonaws.com/index.html
